@@ -33,7 +33,7 @@ export default function Home() {
 
         {/* Resume Button */}
         <a
-          href="https://drive.google.com/file/d/1Eq4fCeMGOmxTYNwyD0WA2Stoa4zC7shY/view?usp=sharing"
+          href="https://drive.google.com/file/d/1G7s96QfHNlQYDRDVyqGzZbflTR8tEx1h/view?usp=sharing"
           download
           className="inline-block mt-6 px-6 py-2 bg-emerald-300 text-[#0f172a] font-semibold rounded shadow-md hover:bg-cyan-400 transition"
         >
